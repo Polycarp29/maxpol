@@ -1,4 +1,5 @@
 import random
+import os 
 lower = "abcdefghijklmnopqrstuvwxyz"
 upper = "ABCDEFGHIJKLMNOQRSTUVWXYZ"
 numbers = "1234567890"
